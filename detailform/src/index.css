@@ -11,4 +11,9 @@ body{
   align-items: center;
   justify-content: center;
   background-color: black;
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9pU35xSeO8m-5cdJL6xWyNeGuDOSRh0eKA&s");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; */
 }
