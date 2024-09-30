@@ -1,0 +1,46 @@
+body{
+  width: 100%;
+  height: 100%;
+  background-image: url("https://img.freepik.com/free-photo/natural-abstract-shadows_23-2149054687.jpg?ga=GA1.1.475990448.1726234302&semt=ais_hybrid");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a-1{
+  width: 100%;
+  height: 300px;
+  border: 1px solid;
+  /* margin-top: 150px; */
+}
+.a-2{
+  width: 100%;
+  height: 100%;
+}
+.a-3 {
+  text-align: center;
+}
+.a-1 input{
+  border-radius: 8px;
+}
+.a-1 button{
+  width: 100px;
+  height: 40px;
+  border-radius: 8px;
+}
+.a-1 button:hover{
+  background-color: rgb(122,132,179);
+}
+ul li{
+  color: white;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul{
+  display: flex;
+  margin-top: 20px;
+}
