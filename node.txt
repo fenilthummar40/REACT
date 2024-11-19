@@ -1,0 +1,31 @@
+1) what is node.js?
+-> node.js is cross plateform open source java-script run time envirment its allow you to run java script code out side its make crome v8 engine high performance. node.js is full-stack appliation in server side scripting an build.
+
+
+2) what is server?
+-> server is system provide in data resoures and service to computer. clint browser data provide in service.
+
+
+3) what is cross plateform?
+-> cross plateform is a multiple opreting system run time in provide windows, makeos and linux in plateformpr providein cross plateform.
+
+4) what is REPL?
+-> R - Read,
+   E - Evul,
+   p - Print,
+   L - Loop.
+
+   R - java-script in code Read time in,
+   E - java-script in code Evulation in,
+   P - java-script in code print in,
+   L - java-script in commed in ctr+c two time or ctr+1 time press in loop countinue in loop.
+
+
+5) what is module?
+-> modul in three 
+    1) core module
+    2) local module
+    3) third-party module
+
+
+6) 
